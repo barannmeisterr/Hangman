@@ -3,7 +3,7 @@ This friendly console based java application contains a simple implementation of
 ## Author
 Arda Baran
 ## Description
-
+This repository contains a Java implementation of the classic Hangman game. Hangman is a word guessing game where the player must guess a secret word letter by letter within a certain number of attempts. The game provides feedback after each guess, including the current score, correct guesses, wrong guesses, and remaining attempts. ASCII art is utilized for visual appeal.
 
 ## Features
 - Random word selection for guessing
